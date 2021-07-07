@@ -32,7 +32,7 @@
     "http-status-codes": "^2.1.4",
     "lodash": "^4.17.21",
     "mysql": "^2.18.1",
-    "probot": "^11.4.1",
+    "probot": "^12.1.0",
     "probot-commands-pro": "^1.0.1",
     "reflect-metadata": "^0.1.13",
     "typedi": "^0.8.0",
