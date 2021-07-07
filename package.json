@@ -24,7 +24,7 @@
     "typeorm": "ts-node ./node_modules/.bin/typeorm"
   },
   "dependencies": {
-    "ajv": "^6.12.6",
+    "ajv": "^8.6.1",
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
